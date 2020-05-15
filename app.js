@@ -1,4 +1,4 @@
 console.log ("hello world!\n");
 //kita coba la
-//hmm
-//edit lagi
+console.log("capek aku tu");
+//haha
